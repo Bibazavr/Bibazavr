@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🔭 I’m currently working on [Mobydick](https://github.com/lad-tech/mobydick)
+- 💜 Favorite language: Rust!
+- 🏃‍♂️ Favorite hobby: Skateboarding!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bibazavr&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="github stats for cortinico" width="50%"/>
