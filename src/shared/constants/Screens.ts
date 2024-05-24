@@ -1,3 +1,4 @@
-export const Screens = {
-  Home: "Home",
-};
+export enum Screens {
+  Home = "Home",
+  Settings = "Settings",
+}

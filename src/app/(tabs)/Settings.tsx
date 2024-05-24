@@ -1,9 +1,8 @@
 import { ThemedView } from "@/shared/ui/ThemedView";
 import { ThemedText } from "@/shared/ui/ThemedText";
 import { ThemedLink } from "@/shared/ui/ThemedLink";
-import { HelloWave } from "@/shared/ui/HelloWave";
 
-export default function Welcome() {
+export default function Settings() {
   return (
     <ThemedView
       style={{
@@ -12,10 +11,8 @@ export default function Welcome() {
         alignItems: "center",
       }}
     >
-      <ThemedText>
-        Welcome <HelloWave />
-      </ThemedText>
-      <ThemedLink href={"/Home"}>Let&apos;s go</ThemedLink>
+      <ThemedText>Settings</ThemedText>
+      <ThemedLink href={"/"}>Logout</ThemedLink>
     </ThemedView>
   );
 }
