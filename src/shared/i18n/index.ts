@@ -21,7 +21,7 @@ const RNLanguageDetector: LanguageDetectorModule = {
     const currentLanguage = getLocales()[0]?.languageCode;
     return currentLanguage ?? "ru";
   },
-  cacheUserLanguage: (lng) => {},
+  cacheUserLanguage: () => {},
 };
 
 i18n
